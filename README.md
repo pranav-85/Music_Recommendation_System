@@ -19,7 +19,7 @@ The app uses **content-based filtering** to make song recommendations:
 
 ## Prerequisites
 
-- Python 3.x
+- Python 
 - The following Python packages:
   - `streamlit`
   - `pandas`
