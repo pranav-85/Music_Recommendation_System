@@ -34,7 +34,7 @@ pip install streamlit pandas scikit-learn
 
 ## Installation
 
-'''bash
+```bash
 git clone https://github.com/pranav-85/Music_Recommendation_System.git
 cd Music_Recommendation_System
 streamlit run app.py
